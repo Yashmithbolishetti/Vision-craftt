@@ -1,0 +1,6 @@
+{
+  "name": "visioncraft-telugu",
+  "description": "Professional Websites & AI Solutions for Local Businesses in Telugu & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
